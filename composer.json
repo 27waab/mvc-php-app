@@ -1,0 +1,15 @@
+{
+    "name": "awababdelbagi/mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "27waab",
+            "email": "awaababdelbagi@gmail.com"
+        }
+    ],
+    "require": {}
+}
